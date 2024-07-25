@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Hi 👋, I'm Krishna Kumar
-
 A passionate Machine Learning Engineer, Data Scientist, and Generative AI Expert
 
 ## 🚀 About Me
@@ -31,7 +29,6 @@ I'm a highly motivated AI professional with a Bachelor of Technology from Chandi
 - Natural Language Processing
 
 ## 🛠 Skills and Technologies
-
 ### Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -64,13 +61,12 @@ I'm a highly motivated AI professional with a Bachelor of Technology from Chandi
 
 ### Cloud Platforms
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakumar51&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakumar51&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
 ## 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar51&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar51&layout=compact&theme=radical&hide=cmake,tcl,cpython)
 
 ## 📫 How to reach me
 - Email: godkrishnasskal@gmail.com
@@ -88,5 +84,6 @@ I'm a highly motivated AI professional with a Bachelor of Technology from Chandi
 - ML-Based Sentiment Analyzer (IEEE Publication)
 
 ---
+💡 I'm always open to collaborating on innovative AI projects and discussing new ideas in the field of machine learning and data science. Feel free to reach out!
 
 💡 I'm always open to collaborating on innovative AI projects and discussing new ideas in the field of machine learning and data science. Feel free to reach out!
