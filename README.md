@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
   
 # Hi 👋, I'm Krishna Kumar
-A passionate Machine Learning Engineer, Data Scientist, and Generative AI Expert
-
-## 🔭 Professional Focus
-Machine Learning, Data Science, Generative AI, Deep Learning, Application Debvelopment
+A passionate Machine Learning Engineer, Data Scientist, and Generative AI Expert.
 
 <div align="center">
 
