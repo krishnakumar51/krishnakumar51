@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 A passionate Machine Learning Engineer, Data Scientist, and Generative AI Expert
 
 ## 🚀 About Me
-I'm a highly motivated AI professional with a Bachelor of Technology from Chandigarh University (CGPA: 8.26). My expertise lies in machine learning, data science, and generative AI. I'm dedicated to pushing the boundaries of AI technology and creating innovative solutions that make a real-world impact.
+I'm a highly motivated AI professional with a Bachelor of Technology from Chandigarh University. My expertise lies in machine learning, data science, and generative AI. I'm dedicated to pushing the boundaries of AI technology and creating innovative solutions that make a real-world impact.
 
 ## 🔭 Professional Focus
 - Machine Learning Engineering
