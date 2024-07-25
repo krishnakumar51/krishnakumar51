@@ -55,3 +55,9 @@ Machine Learning, Data Science, Generative AI, Deep Learning, Application Debvel
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakumar51&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
 </div>
+
+
+## 📫 How to reach me
+- Email: godkrishnasskal@gmail.com
+- LinkedIn: [g51-krishna](https://www.linkedin.com/in/g51-krishna)
+- GitHub: [krishnakumar51](https://github.com/krishnakumar51)
