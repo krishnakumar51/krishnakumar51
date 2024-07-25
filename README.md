@@ -14,19 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 # Hi 👋, I'm Krishna Kumar
 A passionate Machine Learning Engineer, Data Scientist, and Generative AI Expert
-
-## 🚀 About Me
-I'm a highly motivated AI professional with a Bachelor of Technology from Chandigarh University. My expertise lies in machine learning, data science, and generative AI. I'm dedicated to pushing the boundaries of AI technology and creating innovative solutions that make a real-world impact.
 
 ## 🔭 Professional Focus
 - Machine Learning Engineering
 - Data Science
 - Generative AI
 - Deep Learning
-- Natural Language Processing
+- Application Debvelopment
 
 ## 🛠 Skills and Technologies
 ### Programming Languages
@@ -65,9 +62,7 @@ I'm a highly motivated AI professional with a Bachelor of Technology from Chandi
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakumar51&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
-## 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar51&layout=compact&theme=radical&hide=cmake,tcl,cpython)
-
+</div>
 ## 📫 How to reach me
 - Email: godkrishnasskal@gmail.com
 - LinkedIn: [g51-krishna](https://www.linkedin.com/in/g51-krishna)
@@ -84,6 +79,4 @@ I'm a highly motivated AI professional with a Bachelor of Technology from Chandi
 - ML-Based Sentiment Analyzer (IEEE Publication)
 
 ---
-💡 I'm always open to collaborating on innovative AI projects and discussing new ideas in the field of machine learning and data science. Feel free to reach out!
-
 💡 I'm always open to collaborating on innovative AI projects and discussing new ideas in the field of machine learning and data science. Feel free to reach out!
