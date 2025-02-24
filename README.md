@@ -21,33 +21,30 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" title="Flask" />
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" title="FastAPI" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-streamlit-an-open-source-app-framework-for-machine-learning-and-data-science-logo-color-tal-revivo.png" alt="Streamlit" title="Streamlit" />
+  <img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="Streamlit" title="Streamlit" />
 </div>
 
+![FAISS](https://img.shields.io/badge/-FAISS-F5A252?style=for-the-badge&logo=facebook&logoColor=white)
+
 ### **Databases**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="ChromaDB" title="ChromaDB" />
-  <img src="https://img.icons8.com/color/48/000000/pine-tree.png" alt="PineCone" title="PineCone" />
-  <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="FAISS" title="FAISS" />
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Weaviate" title="Weaviate" />
-</div>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![PineCone](https://img.shields.io/badge/-PineCone-000000?style=for-the-badge&logo=pine&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-F5A252?style=for-the-badge&logo=facebook&logoColor=white)
+![Weaviate](https://img.shields.io/badge/-Weaviate-3178C6?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ### **Cloud Platforms**
 <div align="left">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" />
 </div>
-
 ---
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnakumar51&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar51&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakumar51&show_icons=true&theme=radical&hide=prs,issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumar51&layout=compact&theme=radical)
 
 ---
 
