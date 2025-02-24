@@ -22,17 +22,17 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" title="Flask" />
   <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" title="FastAPI" />
-  <img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="Streamlit" title="Streamlit" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-streamlit-an-open-source-app-framework-for-machine-learning-and-data-science-logo-color-tal-revivo.png" alt="Streamlit" title="Streamlit" />
 </div>
 
 ### **Databases**
 <div align="left">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/google-chrome.png" alt="ChromaDB" title="ChromaDB" />
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="ChromaDB" title="ChromaDB" />
   <img src="https://img.icons8.com/color/48/000000/pine-tree.png" alt="PineCone" title="PineCone" />
   <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="FAISS" title="FAISS" />
-  <img src="https://img.icons8.com/color/48/000000/weaviate.png" alt="Weaviate" title="Weaviate" />
+  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Weaviate" title="Weaviate" />
 </div>
 
 ### **Cloud Platforms**
