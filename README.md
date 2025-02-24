@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" title="Flask" />
   <img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="Streamlit" title="Streamlit" />
 </div>
+
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **Databases**
@@ -30,6 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
 </div>
+
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![PineCone](https://img.shields.io/badge/-PineCone-000000?style=for-the-badge&logo=pine&logoColor=white)
 ![FAISS](https://img.shields.io/badge/-FAISS-F5A252?style=for-the-badge&logo=facebook&logoColor=white)
