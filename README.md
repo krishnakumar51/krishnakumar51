@@ -98,7 +98,6 @@ Welcome to my GitHub! I'm passionate about building intelligent systems powered 
 
 ## 🌱 What I'm Up To
 
-- 🔭 **Currently building:** AI Resume Analyser & Document OCR-RAG Pipelines  
 - 🌱 **Learning:** LangSmith, Self-consistency Prompting, and LLMOps  
 - ⚙️ **Exploring:** Agent Memory, LangGraph Planning  
 - 🤝 **Looking to collaborate on:** Open-source AI tooling and intelligent automation  
